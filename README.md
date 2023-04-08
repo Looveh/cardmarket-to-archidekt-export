@@ -15,7 +15,7 @@ Preparation: Go to the CardMarket web page of the order you wish to export (ex. 
 Run the export script with:
 
 ```sh
-node start <input .html file> <output .txt file>
+npm start <input .html file> <output .txt file>
 ```
 
 Copy and paste the output .txt file's contents into Archidekts importer.
